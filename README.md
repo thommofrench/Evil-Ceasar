@@ -1,1 +1,1 @@
-Evil Serpent learns encryption and decryption, defining functions, looping and if statements
+Evil Serpent learns encryption and decryption, defining modules, functions, looping and if statements
